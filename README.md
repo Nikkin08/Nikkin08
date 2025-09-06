@@ -1,4 +1,4 @@
-<h1 align="center">⚡ NIKKIN M S ⚡</h1>
+<h1 align="center"> NIKKIN M S </h1>
 <h3 align="center">Future Machine Learning Engineer | AI Explorer | Student</h3>
 
 ---
@@ -22,9 +22,8 @@ Currently, I'm dedicating my efforts to **Retrieval-Augmented Generation (RAG)**
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  
 </p>
 
 ---
@@ -36,21 +35,16 @@ Here are some of my key projects that showcase my skills in Machine Learning and
   - _Brief, impactful description of the project, e.g., A computer vision model for real-time object detection._
 - **Project Title 2:** [Link to Repo](https://github.com/NikkIN08/Your-Second-Project)
   - _Brief, impactful description of the project, e.g., An NLP project using RAG for a conversational AI assistant._
-- **Project Title 3:** [Link to Repo](https://github.com/NikkIN08/Your-Third-Project)
-  - _Brief, impactful description of the project, e.g., A financial analysis model to predict stock market trends using time-series data._
+- The Flavorist: [Repository]((https://github.com/Nikkin08/The-Flavorist))
+  -A conversational chatbot for a food ordering website, built with Dialogflow, that allows customers to place and track food orders in real-time by querying a SQL database for menu items and order status.-
 
 ---
 
-### 📊 GitHub Insights & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NikkIN08&show_icons=true&theme=radical&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NikkIN08&theme=radical" height="180"/>
-</p>
-
----
 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:nikkin.msn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/nikkin-m-s"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/nik_.in"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.reddit.com/u/nik_in"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
 </p>
