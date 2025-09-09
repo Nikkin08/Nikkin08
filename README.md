@@ -1,53 +1,81 @@
-<h1 align="center">Nikkin M S</h1>
-<h3 align="center">Machine Learning Engineer | AI Explorer | Builder of Intelligent Systems</h3>
+# <div align="center">🌌 NIKKIN 🌌</div>
+
+<div align="center">
+  ![Header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=200&section=header&text=Quantum%20Constellation&fontSize=65&fontColor=fff&animation=fadeIn&desc=Connecting%20the%20Stars%20of%20AI%20%26%20ML&descAlignY=60&descAlign=50)
+</div>
+
+<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F7D8&center=true&vCenter=true&width=600&lines=AI+Explorer;Machine+Learning+Architect;Deep+Learning+Innovator;Large+Language+Model+Researcher;Building+the+Cosmos+of+Intelligence)](https://git.io/typing-svg)
+</div>
 
 ---
 
-### Who I Am  
+## <div align="center">🛰️ CONSTELLATION MAP</div>
 
-I am a **Machine Learning Engineer** with a strong foundation in **AI, Deep Learning, and Data-Driven Systems**.  
-My focus lies in building **scalable, real-world solutions** using advanced technologies in:  
-- 🧠 **Computer Vision**  
-- 💬 **Natural Language Processing (NLP)**  
-- 🔍 **Large Language Models (LLMs)**  
+```python
+class QuantumConstellation:
+    def __init__(self):
+        self.name = "Nikkin"
+        self.role = "AI/ML Explorer"
+        self.focus = ["LLMs", "Deep Learning", "Computer Vision", "RAG"]
+        self.projects = ["The Flavorist", "Other Intelligent Systems"]
+        
+    def mission(self):
+        return "Exploring the Quantum Constellation of AI to solve real-world challenges."
 
-Currently, I’m working on **Retrieval-Augmented Generation (RAG)** to enhance **knowledge-based AI systems**.  
-I thrive on **turning ideas into intelligent systems** that create impact, and I’m always open to **collaboration and innovative projects**.  
+me = QuantumConstellation()
+print(me.mission())
+```
+<div align="center">⚡ CORE QUANTUM NODES ⚡</div>
 
----
-
-### Tech Stack & Core Competencies  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD046?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-</p>
-
----
-
-### Project  
-
-- **The Flavorist** – [Check it Out](https://github.com/Nikkin08/The-Flavorist)  
-  _A conversational chatbot for food ordering, built with Dialogflow, that allows customers to place and track food orders in real-time by querying a SQL database for menu items and order status._  
+<div align="center">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/HuggingFace-F8D12F?style=for-the-badge&logo=huggingface&logoColor=black)
+  ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+</div>
 
 ---
 
-### Connect With Me  
+<div align="center">🌠 STELLAR DEPLOYMENTS</div>
 
-<p align="center">
-  <a href="mailto:nikkin.msn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nikkin-m-s"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/nik_.in"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
+<div align="center">
+  🚀 <strong>The Flavorist</strong> → Conversational chatbot for a food ordering website, integrating Dialogflow & SQL.<br>
+  🌌 <strong>RAG-based AI Assistant</strong> (coming soon) → Retrieval-Augmented Generation for domain knowledge systems.
+</div>
 
 ---
 
- *If you like my work, feel free to star my repositories and connect with me!*  
+<div align="center">✨ COSMIC MILESTONES</div>
+
+<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nikkin08&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nikkin08&show_icons=true&theme=tokyonight&hide_border=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikkin08&layout=compact&theme=tokyonight&hide_border=true)
+</div>
+
+---
+
+<div align="center">📡 SIGNAL TRANSMISSION</div>
+
+<div align="center">
+  <a href="mailto:nikkin.msn@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/nikkin-m-s">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/nik_.in">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Quantum%20Constellation&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=75)
+</div>
