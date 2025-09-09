@@ -35,8 +35,8 @@ Here are some of my key projects that showcase my skills in Machine Learning and
   - _Brief, impactful description of the project, e.g., A computer vision model for real-time object detection._
 - **Project Title 2:** [Link to Repo](https://github.com/NikkIN08/Your-Second-Project)
   - _Brief, impactful description of the project, e.g., An NLP project using RAG for a conversational AI assistant._
-- The Flavorist: [Repository](https://github.com/Nikkin08/The-Flavorist)
-  -_A conversational chatbot for a food ordering website, built with Dialogflow, that allows customers to place and track food orders in real-time by querying a SQL database for menu items and order status._
+- **The Flavorist**: [Repository](https://github.com/Nikkin08/The-Flavorist)
+  - _A conversational chatbot for a food ordering website, built with Dialogflow, that allows customers to place and track food orders in real-time by querying a SQL database for menu items and order status._
 
 ---
 
