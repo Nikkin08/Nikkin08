@@ -1,4 +1,4 @@
-<h1 align="center">👋 Nikkin M S</h1>
+<h1 align="center">Nikkin M S</h1>
 <h3 align="center">Machine Learning Engineer | AI Explorer | Builder of Intelligent Systems</h3>
 
 ---
